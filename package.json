@@ -1,0 +1,12 @@
+{
+  "name": "farmer-procurement",
+  "version": "1.0.0",
+  "description": "KisanDwaar Farmer Procurement Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
