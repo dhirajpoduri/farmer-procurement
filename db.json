@@ -1,0 +1,41 @@
+{
+  "farmers": [],
+  "employees": [],
+  "centres": [
+    {
+      "id": "C1",
+      "name": "Sangareddy APMC Yard",
+      "district": "Sangareddy",
+      "location": "Market Road, Sangareddy",
+      "distance_km": 9,
+      "daily_capacity": 500,
+      "status": "operational"
+    },
+    {
+      "id": "C2",
+      "name": "Patancheru Procurement Center",
+      "district": "Sangareddy",
+      "location": "Industrial Area, Patancheru",
+      "distance_km": 14,
+      "daily_capacity": 400,
+      "status": "operational"
+    },
+    {
+      "id": "C3",
+      "name": "Zaheerabad Grain Market",
+      "district": "Sangareddy",
+      "location": "Highway Junction, Zaheerabad",
+      "distance_km": 22,
+      "daily_capacity": 450,
+      "status": "operational"
+    }
+  ],
+  "slots": [],
+  "bookings": [],
+  "payments": [],
+  "cancellations": [],
+  "procurement": [],
+  "notifications": [],
+  "rates": [],
+  "sessions": {}
+}
